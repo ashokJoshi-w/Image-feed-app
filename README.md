@@ -1,1 +1,1 @@
-# Plant-Corner
+# Image feed MERN app
