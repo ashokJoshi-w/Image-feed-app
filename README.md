@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-04-25 194702" src="https://github.com/user-attachments/assets/b794f5f2-be4a-4d14-bbf9-44c07d6cbea0" /># 📸 Image Feed App
+# 📸 Image Feed App
 
 A full-stack MERN application I built to practice real-world image handling using Multer and MongoDB
 
@@ -19,10 +19,10 @@ A full-stack MERN application I built to practice real-world image handling usin
 
 ## 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-25 194650" src="https://github.com/user-attachments/assets/5dd0221c-74d1-453c-9a6b-b7563ff82f6f" />
+<img width="600"  alt="Screenshot 2026-04-25 194650" src="https://github.com/user-attachments/assets/5dd0221c-74d1-453c-9a6b-b7563ff82f6f" />
 
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-25 194702" src="https://github.com/user-attachments/assets/e2672b2e-7083-479f-b5a9-b0ea1a8c1599" />
+<img width="600"  alt="Screenshot 2026-04-25 194702" src="https://github.com/user-attachments/assets/e2672b2e-7083-479f-b5a9-b0ea1a8c1599" />
 
 
 
