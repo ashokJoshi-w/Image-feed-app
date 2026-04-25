@@ -24,6 +24,7 @@ A full-stack MERN application I built to practice real-world image handling usin
 ![Feed Page ](<img width="1920" height="1080" alt="Screenshot 2026-04-25 194702" src="https://github.com/user-attachments/assets/a22ebce9-05a3-438b-82c4-37db71cd9e04" />
 )
 
+```
 Image-feed-app/
 │
 ├── Backend/
@@ -40,9 +41,7 @@ Image-feed-app/
 │
 ├── Frontend/
 │   ├── public/
-│   │
 │   ├── src/
-│   │
 │   ├── .gitignore
 │   ├── eslint.config.js
 │   ├── index.html
@@ -51,6 +50,7 @@ Image-feed-app/
 │   └── vite.config.js
 │
 └── README.md
+```
 
 ## ⚙️ How to Run Locally
 
