@@ -19,10 +19,9 @@ A full-stack MERN application I built to practice real-world image handling usin
 
 ## 📸 Screenshots
 
-![Create Post Page](<img width="1920" height="1080" alt="Screenshot 2026-04-25 194650" src="https://github.com/user-attachments/assets/0833495e-be9c-47a6-b25e-091c1651f951" />)
+![Create Post Page](https://github.com/user-attachments/assets/0833495e-be9c-47a6-b25e-091c1651f951)
 
-![Feed Page ](<img width="1920" height="1080" alt="Screenshot 2026-04-25 194702" src="https://github.com/user-attachments/assets/a22ebce9-05a3-438b-82c4-37db71cd9e04" />
-)
+![Feed Page](https://github.com/user-attachments/assets/56e6651e-9c09-47da-b1ee-36d64f65076a)
 
 ```
 Image-feed-app/
