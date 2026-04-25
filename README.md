@@ -6,6 +6,7 @@ A simple MERN stack application that allows users to upload and view images in a
 Upload images
 View image feed
 Delete images
+
 🛠️ Tech Stack
 Frontend: React.js, CSS
 Backend: Node.js, Express.js
